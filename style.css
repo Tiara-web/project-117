@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(181, 169, 201, 0.662);
+}
+
+h1 {
+    color: rgb(58, 56, 54);
+    background-color: rgba(208, 165, 233, 0.546);
+}
+
+#show_sketch {
+    float: right;
+}
+
+#span1{
+    float:left;
+    margin-left: 100px;
+    font-size: 30px;
+}
+#span2{
+    float:right;
+    margin-right: 100px;
+    font-size: 30px;
+}
